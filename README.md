@@ -1,4 +1,4 @@
-# Java Essential by Example
+# Java Essentials by Example
 ### *Guida completa teorica e pratica al linguaggio Java*
 
 [![Java Version](https://img.shields.io/badge/Java-8%2B-blue.svg)](https://www.oracle.com/java/technologies/javase-downloads.html)
@@ -25,7 +25,7 @@
 
 ## 📖 **Descrizione del Libro**
 
-*"Java Essential by Example"* è una guida introduttiva completa al linguaggio Java, progettata per accompagnare studenti principianti e programmatori che vogliono apprendere Java attraverso un approccio graduale e pratico. Il libro combina teoria solida, esempi concreti, esercitazioni progressive e quiz di autovalutazione.
+*"Java Essentials by Example"* è una guida introduttiva completa al linguaggio Java, progettata per accompagnare studenti principianti e programmatori che vogliono apprendere Java attraverso un approccio graduale e pratico. Il libro combina teoria solida, esempi concreti, esercitazioni progressive e quiz di autovalutazione.
 
 ---
 

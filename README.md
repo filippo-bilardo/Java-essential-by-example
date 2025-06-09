@@ -127,24 +127,6 @@ A-Ambiente_di_sviluppo/
 └── progetti/
     └── progetto1/
 ```
-
-**Navigazione standard da inserire in ogni README e capitolo:**
-
-```markdown
-## Navigazione del Corso
-- [📑 Indice](../README.md)
-- [⬅️ Modulo Precedente](XX-NomeModuloPrecedente/README.md)
-- [➡️ Modulo Successivo](XX-NomeModuloSuccessivo/README.md)
-```
-
-**Suggerimenti per la coerenza tra i moduli:**
-- Mantieni la stessa struttura di cartelle e file in ogni modulo.
-- Ogni esempio deve essere commentato riga per riga con javadoc.
-- Ogni esercizio deve avere almeno due variazioni e soluzione dettagliata.
-- Quiz a scelta multipla con spiegazione delle risposte.
-- Checklist di autovalutazione a fine capitolo.
-- Inserisci diagrammi UML, flowchart, screenshot e tabelle dove utile (es. in teoria/ e multimedia/).
-
 ---
 
 ## 🛠️ **Strumenti Consigliati**
